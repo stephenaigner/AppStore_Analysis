@@ -13,4 +13,6 @@ SQL guided project from "Lore So What Youtube channel", analyzing Apple store da
 * Productivity, music, photo/video, business, and health/fitness genres had the highest average ratings of 4.01, 3.98, 3.8, 3.75, and 3.7 respectively
 * There is a correlation between description length and ratings. Apps with long descriptions had an average rating of 3.86, medium length had 3.23 rating, and short descriptions had a 2.53 rating
 
+### Summary:
+
 Based on these findings, I would recommend the developer to create a paid application in the productivity genre that supports 10 - 30 languages with a long detailed description. I would avoid apps with game and entertainment genres because of the high competition levels as well as genres with low average ratings. 
